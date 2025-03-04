@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="undecorated" type="boolean" value="true"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="214" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="jLabel5" min="-2" pref="76" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                          <Component id="jLabel11" min="-2" pref="76" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="jLabel13" min="-2" pref="76" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="377" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="jScrollPane2" min="-2" pref="742" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="208" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Component id="jPanel3" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jPanel1" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="54" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel5" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                              <Component id="jLabel11" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                              <Component id="jLabel13" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="jScrollPane2" min="-2" pref="369" max="-2" attributes="0"/>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="100" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="522" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="47" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor" postCode="ImageIcon normalIcon = new ImageIcon(getClass().getResource(&quot;/Org/Images/all(2)_sub.png&quot;));&#xa;ImageIcon hoverIcon = new ImageIcon(getClass().getResource(&quot;/Org/Images/all(1)_sub.png&quot;));">
+              <Image iconType="3" name="/Org/Images/all(2)_sub.png"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                <MatteColorBorder bottom="3" left="3" right="3" top="3"/>
+              </Border>
+            </Property>
+            <Property name="opaque" type="boolean" value="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel5.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;         Sm_Ctrl contrx = new Sm_Ctrl();&#xa;        dispose();&#xa;        Dashboard_All_Students AllstudentsFrame = new Dashboard_All_Students(contrx);&#xa;        AllstudentsFrame.setLocationRelativeTo(null);&#xa;        AllstudentsFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel5.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel5.setBackground(new java.awt.Color(51,102,255));&#xa;jLabel5.setIcon(hoverIcon);&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel5.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel5.setBackground(new java.awt.Color(255,255,255));&#xa;jLabel5.setIcon(normalIcon);&#xa;&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel11">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor" postCode="ImageIcon normalIcon1 = new ImageIcon(getClass().getResource(&quot;/Org/Images/search-engine-optimization2.png&quot;));&#xa;ImageIcon hoverIcon1 = new ImageIcon(getClass().getResource(&quot;/Org/Images/search-engine-optimization1.png&quot;));">
+              <Image iconType="3" name="/Org/Images/search-engine-optimization2.png"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                <MatteColorBorder bottom="3" left="3" right="3" top="3"/>
+              </Border>
+            </Property>
+            <Property name="opaque" type="boolean" value="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel11.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;if (jLabel11 != null) {&#xa;            showSearchDialog();&#xa;        }&#xa;                &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel11.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel11.setBackground(new java.awt.Color(51,102,255));&#xa;jLabel11.setIcon(hoverIcon1);&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel11.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel11.setBackground(new java.awt.Color(255, 255, 255));&#xa;jLabel11.setIcon(normalIcon1);&#xa;&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel13">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="66" red="33" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor" postCode="ImageIcon normalIcon3 = new ImageIcon(getClass().getResource(&quot;/Org/Images/trash(1)_sub.png&quot;));&#xa;ImageIcon hoverIcon3 = new ImageIcon(getClass().getResource(&quot;/Org/Images/trash_sub.png&quot;));">
+              <Image iconType="3" name="/Org/Images/trash(1)_sub.png"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                <MatteColorBorder bottom="3" left="3" right="3" top="3"/>
+              </Border>
+            </Property>
+            <Property name="opaque" type="boolean" value="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel13.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;Sm_Ctrl contry = new Sm_Ctrl();&#xa;        dispose();&#xa;        Dashboard_Trash_Students TrashstudentsFrame = new Dashboard_Trash_Students(contry);&#xa;        TrashstudentsFrame.setLocationRelativeTo(null);&#xa;        TrashstudentsFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel13.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel13.setBackground(new java.awt.Color(51,102,255));&#xa;jLabel13.setIcon(hoverIcon3);&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel13.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel13.setBackground(new java.awt.Color(51,102,255));&#xa;jLabel13.setIcon(normalIcon3);&#xa;&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="jTable2">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="66" red="33" type="rgb"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="12" rowCount="0">
+                    <Column editable="false" title="#" type="java.lang.Integer"/>
+                    <Column editable="false" title="Matricule" type="java.lang.String"/>
+                    <Column editable="false" title="id" type="java.lang.Long"/>
+                    <Column editable="false" title="Nom" type="java.lang.String"/>
+                    <Column editable="false" title="Pr&#xe9;nom" type="java.lang.String"/>
+                    <Column editable="false" title="E-mail" type="java.lang.String"/>
+                    <Column editable="false" title="Date de naissance" type="java.lang.String"/>
+                    <Column editable="false" title="Statut" type="java.lang.Integer"/>
+                    <Column editable="false" title="Sexe" type="java.lang.Integer"/>
+                    <Column editable="false" title="Adresse" type="java.lang.String"/>
+                    <Column editable="true" title="T&#xe9;l&#xe9;phone" type="java.lang.Integer"/>
+                    <Column editable="false" title="Date d&apos;enregistrement" type="java.lang.String"/>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="gridColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="0" type="rgb"/>
+                </Property>
+                <Property name="rowHeight" type="int" value="40"/>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

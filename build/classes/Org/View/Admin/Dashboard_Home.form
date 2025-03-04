@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="undecorated" type="boolean" value="true"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel2" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel5" min="-2" pref="218" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="68" max="-2" attributes="0"/>
+                  <Component id="jLabel4" min="-2" pref="218" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+                  <Component id="jLabel6" min="-2" pref="218" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="jLabel7" min="-2" pref="218" max="-2" attributes="0"/>
+                  <EmptySpace pref="79" max="32767" attributes="0"/>
+              </Group>
+              <Component id="jPanel3" alignment="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel7" min="-2" pref="170" max="-2" attributes="0"/>
+                              <Component id="jLabel6" min="-2" pref="170" max="-2" attributes="0"/>
+                              <Component id="jLabel5" min="-2" pref="170" max="-2" attributes="0"/>
+                              <Component id="jLabel4" min="-2" pref="170" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace pref="265" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jPanel1" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="100" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="24" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor" postCode="ImageIcon normalIcon2 = new ImageIcon(getClass().getResource(&quot;/Org/Images/mortier(5).png&quot;));&#xa;ImageIcon hoverIcon2 = new ImageIcon(getClass().getResource(&quot;/Org/Images/mortier(6).png&quot;));">
+              <Image iconType="3" name="/Org/Images/mortier(5).png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xc9;tudiant"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                <MatteColorBorder bottom="3" left="3" right="3" top="3"/>
+              </Border>
+            </Property>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="opaque" type="boolean" value="true"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel4.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;                Sm_Ctrl cont = new Sm_Ctrl();&#xa;                dispose();&#xa;                Dashboard_All_Students AllstudentsFrame = new Dashboard_All_Students(cont);&#xa;                AllstudentsFrame.setLocationRelativeTo(null);&#xa;                AllstudentsFrame.setVisible(true);&#xa;            &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel4.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel4.setBackground(new java.awt.Color(51,102,255));&#xa;jLabel4.setForeground(new java.awt.Color(255, 255, 255));&#xa;jLabel4.setIcon(hoverIcon2);&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel4.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel4.setForeground(new java.awt.Color(0, 0, 0));&#xa;jLabel4.setBackground(new java.awt.Color(255, 255, 255));&#xa;jLabel4.setIcon(normalIcon2);&#xa;&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="24" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor" postCode="ImageIcon normalIcon = new ImageIcon(getClass().getResource(&quot;/Org/Images/all(2).png&quot;));&#xa;ImageIcon hoverIcon = new ImageIcon(getClass().getResource(&quot;/Org/Images/all(1).png&quot;));">
+              <Image iconType="3" name="/Org/Images/all(2).png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Tous"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                <MatteColorBorder bottom="3" left="3" right="3" top="3"/>
+              </Border>
+            </Property>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="opaque" type="boolean" value="true"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel5.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;          dispose();&#xa;           Dashboard_Home DhFrame = new Dashboard_Home();&#xa;           DhFrame.setLocationRelativeTo(null);&#xa;           DhFrame.setVisible(true);&#xa;            &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel5.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel5.setBackground(new java.awt.Color(51,102,255));&#xa;jLabel5.setForeground(new java.awt.Color(255, 255, 255));&#xa;jLabel5.setIcon(hoverIcon);&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel5.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel5.setForeground(new java.awt.Color(0, 0, 0));&#xa;jLabel5.setBackground(new java.awt.Color(255, 255, 255));&#xa;jLabel5.setIcon(normalIcon);&#xa;&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="24" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor" postCode="ImageIcon normalIcon3 = new ImageIcon(getClass().getResource(&quot;/Org/Images/professeur.png&quot;));&#xa;ImageIcon hoverIcon3 = new ImageIcon(getClass().getResource(&quot;/Org/Images/professeur(2).png&quot;));">
+              <Image iconType="3" name="/Org/Images/professeur.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Enseignant"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                <MatteColorBorder bottom="3" left="3" right="3" top="3"/>
+              </Border>
+            </Property>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="opaque" type="boolean" value="true"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel6.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;Sm_Ctrl contrx = new Sm_Ctrl();&#xa;        dispose();&#xa;        Dashboard_All_Teachers AllTeachersFrame = new Dashboard_All_Teachers(contrx);&#xa;        AllTeachersFrame.setLocationRelativeTo(null);&#xa;        AllTeachersFrame.setVisible(true);&#xa;        &#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel6.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel6.setBackground(new java.awt.Color(51,102,255));&#xa;jLabel6.setForeground(new java.awt.Color(255, 255, 255));&#xa;jLabel6.setIcon(hoverIcon3);&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel6.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel6.setForeground(new java.awt.Color(0, 0, 0));&#xa;jLabel6.setBackground(new java.awt.Color(255, 255, 255));&#xa;jLabel6.setIcon(normalIcon3);&#xa;&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="24" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor" postCode="ImageIcon normalIcon4 = new ImageIcon(getClass().getResource(&quot;/Org/Images/salle-de-cours.png&quot;));&#xa;ImageIcon hoverIcon4 = new ImageIcon(getClass().getResource(&quot;/Org/Images/salle-de-cours(1).png&quot;));">
+              <Image iconType="3" name="/Org/Images/salle-de-cours.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Cours"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                <MatteColorBorder bottom="3" left="3" right="3" top="3"/>
+              </Border>
+            </Property>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="opaque" type="boolean" value="true"/>
+            <Property name="verticalTextPosition" type="int" value="3"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel7.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;Sm_Ctrl contrwe = new Sm_Ctrl();&#xa;                                        dispose();&#xa;                                        Dashboard_All_Course AllcourseFrame = new Dashboard_All_Course(contrwe);&#xa;                                        AllcourseFrame.setLocationRelativeTo(null);&#xa;                                        AllcourseFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel7.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel7.setBackground(new java.awt.Color(51,102,255));&#xa;jLabel7.setForeground(new java.awt.Color(255, 255, 255));&#xa;jLabel7.setIcon(hoverIcon4);&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel7.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel7.setForeground(new java.awt.Color(0, 0, 0));&#xa;jLabel7.setBackground(new java.awt.Color(255, 255, 255));&#xa;jLabel7.setIcon(normalIcon4);&#xa;&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="47" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

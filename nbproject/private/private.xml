@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/ShowResultSearchTeachers.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/ShowResultSearchCourse.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Home/Splash.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Add_Students.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/CourseListDialogStudents.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Component/Panel_Teachers.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Home/Choice.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Component/Dash.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Updates_Course.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Dashboard_Trash_Teachers.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/CourseListDialog.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Dashboard_All_Students.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/StudentsListDialog.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/Entity/Super_Admin_Entity.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/Main/Main.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Log_Sa_Admin.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/Entity/Course_Entity.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/ShowResultSearch.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Updates_Teachers.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Add_Classes_Teachers.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Home/Splash_Admin.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Teachers/Dash_Teachers_My_Students.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Component/Menu.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Dashboard_All_Teachers.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Component/Dash_Teachers.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Add_Super_Admin.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Dashboard_All_Course.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Students/Dash_Students_MyCourse.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/Dao/Sm_DAO.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Add_Teachers.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Updates_Students.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Dashboard_Home.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Students/Log_Students.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Add_Classes_Students.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/Entity/Students_Entity.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Teachers/Dash_Teachers_Home.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Home/Home.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/META-INF/persistence.xml</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Teachers/Dash_Teachers_Course.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Teachers/Log_Teachers.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Add_Course.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/Entity/Teachers_Entity.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/Main/Main_Admin.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Dashboard_Trash_Course.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/View/Admin/Dashboard_Trash_Students.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/Ctrl/Sm_Ctrl.java</file>
+            <file>file:/home/an/Documents/java_swing/Students_Management/src/Org/Entity/Class_Entity.java</file>
+        </group>
+    </open-files>
+</project-private>
